@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"BuildVersion": "360584",
+	"FriendlyName": "MemorialCampaignMod",
+	"Description": "",
+	"Category": "UGC",
+	"CreatedBy": "Avetorian, HeroCrafter,Moleman2009",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"bIsMod": true
+}

@@ -17,3 +17,4 @@ BuildShaderCacheWin64.bat
 .reviewboardrc
 .editorconfig
 .clang-tidy
+/DerivedDataCache
